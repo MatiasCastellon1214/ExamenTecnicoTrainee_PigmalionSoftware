@@ -64,15 +64,15 @@ Tiempo de ejecución:
 
 Array 1:
 
-    - Función simple:**0.000200 segundos**
+    - Función simple:0.000200 segundos
 
-    - Función optimizada:**0.000067 segundos**
+    - Función optimizada:0.000067 segundos
 
 Array 2:
 
-    - Función simple:**0.000073 segundos**
+    - Función simple:0.000073 segundos
 
-    - Función optimizada:**0.000039 segundos**
+    - Función optimizada:0.000039 segundos
 
 ---
 
